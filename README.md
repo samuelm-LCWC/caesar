@@ -24,3 +24,7 @@ Each function should accept two arguments, the first is a string which is the te
 You may assume that all messages will be only lower case text, with no other characters except spaces
 
 Ensure that the code you write is well documented and follows coding standards and best practices
+
+The two functions should be called "encrypt" and "unencrypt"
+
+In both funcitons the "shift" value will be a positive integer
